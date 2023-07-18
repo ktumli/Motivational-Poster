@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+}
+#full{
+    margin-top: 5%;
+    width: 50%;
+    margin-left: 25%;
+    color: white;
+    text-align: center;
+}
+img{
+    border: 5px solid orange;
+    width: 100%;
+}
+h1{
+    text-transform: uppercase;
+    font-family: 'Libre Baskerville', serif;
+}
+
+/* this was how i originally did it and it was harder for no reason*/
+#image{
+    width: 50%;
+    margin-left: 25%;
+    border: 5px solid orange; /*will change this later*/
+}
+#main_text{
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Libre Baskerville', serif;
+}
+#sub_text{
+    text-align: center;
+}
